@@ -43,7 +43,7 @@ The dataset used in this project is the **Intel Image Classification Dataset**, 
 ## Usage
 Run the Jupyter Notebook:
 ```bash
-jupyter notebook Refactored_Project.ipynb
+jupyter notebook Intel_Image_Classification.ipynb
 ```
 
 ## Dependencies
