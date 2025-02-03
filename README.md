@@ -31,8 +31,8 @@ The dataset used in this project is the **Intel Image Classification Dataset**, 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/image-classification-tensorflow.git
-   cd image-classification-tensorflow
+   git clone https://github.com/Artin-Rh/Image-Classification-Multi-class-Intel-Dataset.git
+   cd Image-Classification-Multi-class-Intel-Dataset
    ```
 2. Install dependencies:
    ```bash
