@@ -4,22 +4,15 @@
 This project is a deep learning-based image classification model using TensorFlow and Keras. It explores dataset structure, preprocesses images, and builds a CNN model to classify images into different categories.
 
 ## Dataset
-The dataset used in this project is the **Intel Image Classification Dataset**, available on Kaggle:  
-[Intel Image Classification Dataset](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
+The dataset consists of images categorized into six different classes:
+- **Buildings**
+- **Forest**
+- **Glacier**
+- **Mountain**
+- **Sea**
+- **Street**
 
-### Download Instructions:
-1. Install Kaggle API if not already installed:
-   ```bash
-   pip install kaggle
-   ```
-2. Authenticate your Kaggle account:
-   - Go to your [Kaggle API Token page](https://www.kaggle.com/account)
-   - Download `kaggle.json`
-   - Move it to `~/.kaggle/` (Linux/macOS) or `%HOMEPATH%\.kaggle\` (Windows)
-3. Download and extract the dataset:
-   ```bash
-   kaggle datasets download -d puneet6060/intel-image-classification -p data --unzip
-   ```
+The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification).
 
 ## Features
 - **Data Exploration**: Displays sample images and class distributions.
