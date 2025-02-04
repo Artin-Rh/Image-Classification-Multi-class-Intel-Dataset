@@ -45,7 +45,6 @@ jupyter notebook Intel_Image_Classification.ipynb
 - NumPy
 - Matplotlib
 - Seaborn
-- Kaggle API (for dataset download)
 
 ## Future Improvements
 - Hyperparameter tuning
