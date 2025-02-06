@@ -21,33 +21,15 @@ The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/pune
 - **Model Training**: Trains with validation splitting and monitors performance.
 - **Evaluation**: Evaluates accuracy and generates performance metrics.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Artin-Rh/Image-Classification-Multi-class-Intel-Dataset.git
-   cd Image-Classification-Multi-class-Intel-Dataset
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Download the dataset following the steps in the **Dataset** section.
-
-## Usage
-Run the Jupyter Notebook:
-```bash
-jupyter notebook Intel_Image_Classification.ipynb
-```
-
-## Dependencies
-- TensorFlow
-- Keras
-- NumPy
-- Matplotlib
-- Seaborn
 
 ## Future Improvements
 - Hyperparameter tuning
 - More data augmentation techniques
 - Experimenting with different CNN architectures
 
+
+## **Contact**
+For any questions or collaboration opportunities, feel free to reach out!
+
+**Email**: [artin.rahmanian501@gmail.com](mailto:artin.rahmanian501@gmail.com)  
+**LinkedIn**: [Artin-Rahmanian](https://www.linkedin.com/in/artin-rahmanian-24a058232) 
