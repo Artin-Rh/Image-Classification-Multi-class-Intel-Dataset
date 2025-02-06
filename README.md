@@ -14,6 +14,8 @@ The dataset consists of images categorized into six different classes:
 
 The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification).
 
+---
+
 ## Features
 - **Data Exploration**: Displays sample images and class distributions.
 - **Data Preprocessing**: Converts images into TensorFlow datasets, normalizes pixel values.
@@ -21,12 +23,23 @@ The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/pune
 - **Model Training**: Trains with validation splitting and monitors performance.
 - **Evaluation**: Evaluates accuracy and generates performance metrics.
 
+---
 
 ## Future Improvements
 - Hyperparameter tuning
 - More data augmentation techniques
 - Experimenting with different CNN architectures
 
+
+---
+
+## **Contributing**
+If you’d like to contribute:
+1. **Fork the repository** and create a feature branch.
+2. **Implement improvements** or **fix issues**.
+3. **Submit a pull request** for review!
+
+---
 
 ## **Contact**
 For any questions or collaboration opportunities, feel free to reach out!
